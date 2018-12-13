@@ -3,7 +3,7 @@ Docker Windows image with PAServer installed and running. For RadStudio Tokyo Re
 It is based on microsoft/windowsservercore image
 
 # Usage:
-docker pull jaruzafa/paserverwindows
-docker run -d -h mypaserver jaruzafa/paserverwindows
+docker pull andremussche/paserver-dockerwin
+docker run -d -h mypaserver andremussche/paserver-dockerwin
 
-Docker repo: https://hub.docker.com/r/jaruzafa/paserver-dockerwin/
+Docker repo: https://hub.docker.com/r/andremussche/paserver-dockerwin/
