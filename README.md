@@ -7,3 +7,5 @@ It is based on microsoft/windowsservercore image
 * docker run -d -h mypaserver andremussche/paserver-dockerwin
 
 Docker repo: https://hub.docker.com/r/andremussche/paserver-dockerwin/
+
+Example project: https://yeiei.net/en/debugging-delphi-applications-inside-a-windows-docker-container/
