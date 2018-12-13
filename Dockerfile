@@ -1,5 +1,5 @@
 FROM microsoft/windowsservercore
-LABEL maintainer="jaruzafa@gmail.com"
+LABEL maintainer="andre.mussche@gmail.com"
 
 ADD install_paserver.bat /paserver/install_paserver.bat
 ADD http://altd.embarcadero.com/releases/studio/19.0/PAServer/Release3/setup_paserver.exe /paserver
